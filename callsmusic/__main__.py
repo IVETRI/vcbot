@@ -4,7 +4,7 @@ from . import group_call_instances
 from .. import queues
 
 
-@client.on_message(filters.me & filters.command("config"))
+@client.on_message(filters.me & filters.command("start"))
 async def pl(__, _):
     if _.chat.id in group_call_instances.active_chats:
         queues.put(_.chat.id, 'out.raw')
