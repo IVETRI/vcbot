@@ -2,7 +2,7 @@
 All Credits To [CallsMusic](https://github.com/calsmusic/callsmusic) ❤️ .
 This is CallsMusic-1
 
-## Original Repo!
+# Original Repo!
 Here it is! [This The Original Repo ❤️](https://github.com/callsmusic/callsmusic)
 
 ## Note!⚠️ ,
@@ -18,7 +18,7 @@ Before You Deploy make sure you Starred & Forked **[The Original Repo ❤️](ht
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Itz-fork/yeah-my-man)
 
 ### Pyrogram String Session
-<a href="https://replit.com/@IamHirusha/GetPyroSessionVC"><img src="https://img.shields.io/badge/Run-Repl.it-white?style=for-the-badge&logo=repl.it"></a>
+<a href="https://replit.com/@TamilBots/TAMILVCBOT#main.py"><img src="https://img.shields.io/badge/Run-Repl.it-white?style=for-the-badge&logo=repl.it"></a>
 
 ## Problems?
 Facing Problems? **[Read How To Deploy](https://github.com/Itz-fork/yeah-my-man/wiki/How-To-Deploy-This!)**
@@ -35,7 +35,7 @@ Facing Problems? **[Read How To Deploy](https://github.com/Itz-fork/yeah-my-man/
  `SUDO_USERS` - Sudo User's ID</br>
  `DURATION_LIMIT` - Max Time Limited For a song!</br>
 
-**[How To Get Config Vars? 🤔 Read This!](https://github.com/Itz-fork/yeah-my-man/wiki/How-To-Deploy-This!)**
+
 
 ## Requirements
 
@@ -68,7 +68,7 @@ Copy `example.env` to `.env` and fill it with your credentials.
    docker run --env-file .env musicplayer
    ```
 
-## Need Support?
+
 
 
 ## Credits
