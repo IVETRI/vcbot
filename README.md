@@ -69,7 +69,7 @@ Copy `example.env` to `.env` and fill it with your credentials.
    ```
 
 ## Need Support?
-Ask Me In **[Nexa Bots Support Group](https://t.me/Nexa_bots)**
+
 
 ## Credits
 
@@ -81,4 +81,4 @@ Ask Me In **[Nexa Bots Support Group](https://t.me/Nexa_bots)**
 ## License
 
 ### GNU General Public License v3.0
-[Read more](http://www.gnu.org/licenses/#GPL)
+
